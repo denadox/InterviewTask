@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TicketDuplicate", "TicketDuplicate\TicketDuplicate.csproj", "{EB9F983B-A398-4BDA-84F3-D5D13EA0A4BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB9F983B-A398-4BDA-84F3-D5D13EA0A4BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9F983B-A398-4BDA-84F3-D5D13EA0A4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9F983B-A398-4BDA-84F3-D5D13EA0A4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9F983B-A398-4BDA-84F3-D5D13EA0A4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69322FB9-9964-46DB-936E-E237C3540A1C}
+	EndGlobalSection
+EndGlobal

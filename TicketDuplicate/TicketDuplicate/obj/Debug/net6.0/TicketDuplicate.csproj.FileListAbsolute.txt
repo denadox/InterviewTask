@@ -1,0 +1,15 @@
+C:\Users\Komputer\source\repos\TicketDuplicate\TicketDuplicate\bin\Debug\net6.0\TicketDuplicate.exe
+C:\Users\Komputer\source\repos\TicketDuplicate\TicketDuplicate\bin\Debug\net6.0\TicketDuplicate.deps.json
+C:\Users\Komputer\source\repos\TicketDuplicate\TicketDuplicate\bin\Debug\net6.0\TicketDuplicate.runtimeconfig.json
+C:\Users\Komputer\source\repos\TicketDuplicate\TicketDuplicate\bin\Debug\net6.0\TicketDuplicate.dll
+C:\Users\Komputer\source\repos\TicketDuplicate\TicketDuplicate\bin\Debug\net6.0\TicketDuplicate.pdb
+C:\Users\Komputer\source\repos\TicketDuplicate\TicketDuplicate\obj\Debug\net6.0\TicketDuplicate.csproj.AssemblyReference.cache
+C:\Users\Komputer\source\repos\TicketDuplicate\TicketDuplicate\obj\Debug\net6.0\TicketDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Komputer\source\repos\TicketDuplicate\TicketDuplicate\obj\Debug\net6.0\TicketDuplicate.AssemblyInfoInputs.cache
+C:\Users\Komputer\source\repos\TicketDuplicate\TicketDuplicate\obj\Debug\net6.0\TicketDuplicate.AssemblyInfo.cs
+C:\Users\Komputer\source\repos\TicketDuplicate\TicketDuplicate\obj\Debug\net6.0\TicketDuplicate.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\source\repos\TicketDuplicate\TicketDuplicate\obj\Debug\net6.0\TicketDuplicate.dll
+C:\Users\Komputer\source\repos\TicketDuplicate\TicketDuplicate\obj\Debug\net6.0\refint\TicketDuplicate.dll
+C:\Users\Komputer\source\repos\TicketDuplicate\TicketDuplicate\obj\Debug\net6.0\TicketDuplicate.pdb
+C:\Users\Komputer\source\repos\TicketDuplicate\TicketDuplicate\obj\Debug\net6.0\TicketDuplicate.genruntimeconfig.cache
+C:\Users\Komputer\source\repos\TicketDuplicate\TicketDuplicate\obj\Debug\net6.0\ref\TicketDuplicate.dll
